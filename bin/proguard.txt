@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:52
+-keep class org.chirpradio.CHIRPRadio.CHIRPRadio { <init>(...); }
+
